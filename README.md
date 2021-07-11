@@ -3,3 +3,5 @@
 
 ファイル入れたら
 `python3 SlowApp.py`
+
+YoutubeとDiscordが開ける
